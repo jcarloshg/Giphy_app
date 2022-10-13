@@ -18,10 +18,4 @@ export class BusquedaComponent {
 
     this.gifsService.buscar(valor);
   }
-
-  // buscar(event: KeyboardEvent) {
-  //   console.log('====================================');
-  //   console.log(event.key);
-  //   console.log('====================================');
-  // }
 }
